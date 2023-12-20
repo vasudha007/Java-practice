@@ -190,5 +190,13 @@ throws -->
 
 
 
+------------------------------------------
 
+## Collections 
+
+interface 
+List[I]   ----- ArrayList , LinkedList 
+Set[I]     ----- HashSet, TreeSet
+Queue[I]   -----
+Map     ----- HashMap, TreeMap, LinkedHashmap, ConcurrentHashMap
 
